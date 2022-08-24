@@ -18,6 +18,6 @@
 8. 電子計算機(輪巡式)<br>
 9. 電子計算機(中斷式) <br>
 
-![image](https://user-images.githubusercontent.com/67943586/186473862-e0c47831-0fc4-4942-9d05-2ff07206268c.png)
+![image](https://user-images.githubusercontent.com/67943586/186473862-e0c47831-0fc4-4942-9d05-2ff07206268c.png)<br>
 ASA M128 單板電腦<br>
 
